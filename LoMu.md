@@ -3,10 +3,11 @@ Con LoMu, gli utenti possono esplorare infinite possibilità creative, grazie al
 le specifiche sono: 
 1. implementazione AI
 2. differenti suoni da applicare nella creazione musicale
+   
    specifiche non funzionali:
 1. piano roll
 2. metronomo
 3. tasto recording
 4. login
 5. differenti plugin inclusi
-6. 
+   
