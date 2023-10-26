@@ -19,6 +19,14 @@ le specifiche sono:
 11. tasto salva per salvare il progetto
 12. menu di scelta per scegliere plugin, strumenti e differenti oggetti
 13. tasto importa
-14. menu di controllo dei canali
-15. menu di scelta di Loop implementati nell'applicazione con possibilità di scaricarne ulteriori
+14. tasto esporta 
+15. menu di controllo dei canali
+16. menu di scelta di Loop implementati nell'applicazione con possibilità di scaricarne ulteriori
+17. tasto play
+18. song/pattern mode
+19. tasto stop
+20. monitor ( master)
+21. tasto per visualizzare il piano roll
+22. tasto per visualizzare la playlist
+23. tasto per visualizzare il channel rack
    
