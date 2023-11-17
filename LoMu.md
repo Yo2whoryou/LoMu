@@ -4,7 +4,10 @@ un artista si potrebbe spesso trovare in un momento di vuoto, senza sapere come 
 le specifiche sono: 
 1. implementazione AI per concludere le composizioni 
 2. differenti suoni da applicare nella creazione musicale già compresi nell'applicazione con la possibilità di scaricarne ulteriori online
-   
+   <details>
+      <summary> nonononono  </summary>
+      <p> - non mi fermo qui </p>
+   </details>
    specifiche non funzionali:
 1. piano roll: interfaccia intuitiva che rispecchia un piano su cui inserire le note 
 2. metronomo con possibilità di inserire differenti battiti per minuto 
